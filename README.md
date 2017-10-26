@@ -1427,3 +1427,4 @@ Signed,
 - Kashyap Raval ([@kashyap32](https://github.com/kashyap32)) ,Intern Python/ML developer , Gujarat, India
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
 - Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
+- Filipe Silva ([@flpms](https://github.com/flpms)), Full-Stack Developer at smartrips and founder at Local-1202, Barueri, Brazil
